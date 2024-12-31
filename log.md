@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 0: December 31, 2024 
 
 **Today's Progress**:Today i publically admitted that i'm going to code for 100 days. 
 
